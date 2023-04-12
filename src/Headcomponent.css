@@ -1,0 +1,58 @@
+.header-container{
+    display: flex;
+    background-color: dodgerblue;
+    color: white;
+    padding: 0 30px;
+}
+.Child{
+    
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+    box-shadow: 8px 8px 8px 8px rgba(194, 191, 191, 0.2);
+    border-radius: 10px; 
+}
+.Content{
+    display:flex;
+}
+.addicon{
+    margin-left: 300px;
+    
+}
+.viewicon{
+    margin-left: 20px;
+}
+.totalviewicon{
+    margin-left: 170px;
+}
+.addingdetails{
+    margin-top: 20px;
+    height: 114px;
+    width: 217px;
+    border-radius: 10px;
+}
+.addamount{
+    margin-top: 10px;
+    height: 34px;
+    width: 217px;
+    border-radius: 10px;
+}
+.addbtn{
+    margin-top: 20px;
+    background-color: dodgerblue;
+}
+/* .table{
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
